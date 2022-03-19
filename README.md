@@ -1,4 +1,3 @@
-# Nova
-Python Notepad dev with tkinter
+Nova is a Python Notepad made with Tkinter 
 
-Still In Work :)
+One of my firsts Tkinter Projects
