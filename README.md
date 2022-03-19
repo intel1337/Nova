@@ -4,7 +4,7 @@ Nova
 Nova est un Bloc Notes fais en Python, 
 
 
-![](https://ibb.co/WPSqtTB)
+[](https://ibb.co/WPSqtTB)
 
 
 
